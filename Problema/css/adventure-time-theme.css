@@ -1,0 +1,74 @@
+/*No tocar este codigo*/ 
+.sidebar-closed > #sidebar > ul {
+    display: none;
+}
+
+.sidebar-closed #main-content {
+    margin-left: 0px;
+}
+
+.sidebar-closed #sidebar {
+    margin-left: -180px;
+}
+
+/*Escribe aqui tu codigo */
+/* -- Menu -- */
+.header {
+	padding: 1%;
+	background: #424A5D; 
+	color: white;
+	border-bottom: 1px solid #303949;
+}
+.header .fa {
+	float: left;
+	padding-right: 1.5%;
+	padding-top: 0.3%;
+    font-size: 1.1em;
+}
+.header .top-menu {
+	display: inline-block;
+	float: right;
+}
+.header .logo {
+	color: white;
+	font-size: 1.1em;
+}
+.sidebar-menu {
+    width: 200px;
+    height: 600px;
+    padding-top: 2%;
+    background: #424A5D;
+    display: inline-block;
+    position: absolute;
+}
+.sidebar-menu a {
+	color: #9CA1A8;
+}
+.sidebar-menu a:hover{
+	color: white;
+	text-decoration: none;
+}
+
+.sidebar-menu li{
+    padding: 7%; 
+}
+.sidebar-menu li:hover{
+    padding: 7%; 
+    color: white;
+	background: #9B4C9D;
+}
+.style-p{
+	color: white;
+	font-weight: 600;
+	font-size: 1.7rem;
+}
+#main-content {
+	margin-left: 210px;
+}
+.mt {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+
+

@@ -1,0 +1,26 @@
+body {
+	background: #F2F2F2;
+}
+.form-login {
+	width: 300px;
+    margin: 10% auto;
+    background: white;
+    border-radius: 5px;
+}
+.login-wrap {
+	padding: 5%;
+}
+.form-login-heading{
+	background: #67DFF0;
+    text-align: center;
+    padding: 10%;
+    text-transform: uppercase;
+    font-size: 1.8rem;
+    color: white;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.registration {
+	text-align: center;
+    margin-top: 5%;
+}
