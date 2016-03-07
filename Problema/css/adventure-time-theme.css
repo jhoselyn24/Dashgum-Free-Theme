@@ -29,6 +29,14 @@
 	display: inline-block;
 	float: right;
 }
+.top-menu a{
+	background: purple;
+    border-radius: 5px;
+    border-top: -5px;
+    color: white;
+    font-size: 1.2rem;
+    padding: 7px 14px;
+}
 .header .logo {
 	color: white;
 	font-size: 1.1em;
@@ -69,6 +77,7 @@
 	margin-left: 0;
 	margin-right: 0;
 }
+
 
 
 
