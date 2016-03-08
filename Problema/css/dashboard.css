@@ -1,0 +1,89 @@
+body{
+	background: #F2F2F2;
+	color: gray;
+}
+.main-chart .box1{
+	color:#989898;
+	font-size: 3.5rem;
+    margin-top: 6%;
+	text-align: center;
+	border-bottom: 1px solid silver;
+}
+.box1:hover {
+	border-bottom: 0px;
+}
+.box0 p{
+	color: #F2F2F2;
+	display: none;
+}
+.box0:hover p{
+	text-align: center;
+	font-size: 0.8em;
+	padding: 2px;
+	color: orange;
+	display: block;
+}
+.box0:hover {
+	box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
+	background: white;
+	padding: 0;
+	position: relative;
+}
+.page-header {
+    padding-bottom: 9px;
+    border-bottom: 1px solid #eee;
+}
+.showback {
+	background: white;
+    padding: 1%;
+    box-shadow: 3px 3px 3px silver;
+}
+.buttons a {
+    margin-right: 7%;
+    font-size: 1.3rem;
+}
+.ds {
+	background: white;
+}
+.ds h3{
+	font-size: 1.2em;
+	color: white;
+	background: #9C4C9D;
+	padding: 4% 0;
+	text-align: center;
+}
+
+.badge {
+	background: #66DDEE;
+	color: white;
+	float: left;
+}
+.desc .details a{
+	margin-left: 2px;
+	font-size: 0.9em;
+}
+.desc .details p{
+	margin-left: 40px;
+	font-size: 0.9em;
+}
+.desc img{
+	float: left;
+}
+.desc p{
+    padding-left: 8%;
+
+}
+/* Utilities */
+.mt-10 {
+	margin-top: 10px;
+}
+.row {
+	margin-left: 0;
+	margin-right: 0;
+}
+.fz-1 {
+	font-size: 1.3rem;
+}
+.ml-14 {
+	margin-left: 14px;
+}

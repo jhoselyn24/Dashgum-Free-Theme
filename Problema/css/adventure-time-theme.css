@@ -29,6 +29,16 @@
 	display: inline-block;
 	float: right;
 }
+ul.top-menu > li > .logout {
+	color: #f2f2f2;
+	font-size: 12px;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	padding: 5px 15px;
+	margin-right: 15px;
+	background: #9C4C9D;
+	margin-top: -2px;
+}
 .top-menu a{
 	background: purple;
     border-radius: 5px;
@@ -43,11 +53,15 @@
 }
 .sidebar-menu {
     width: 200px;
-    height: 600px;
+    height: 155%;
     padding-top: 2%;
     background: #424A5D;
     display: inline-block;
     position: absolute;
+    margin-bottom: 0;
+}
+#main-content {
+	margin-left: 210px;
 }
 .sidebar-menu a {
 	color: #9CA1A8;
@@ -70,10 +84,12 @@
 	font-weight: 600;
 	font-size: 1.7rem;
 }
-#main-content {
-	margin-left: 210px;
-}
+/* Utilities */
 .mt {
+	margin-left: 0;
+	margin-right: 0;
+}
+.row {
 	margin-left: 0;
 	margin-right: 0;
 }

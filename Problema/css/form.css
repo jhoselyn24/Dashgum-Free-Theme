@@ -1,0 +1,11 @@
+body{
+	background: #F2F2F2;
+	color: gray;
+}
+.form-panel{
+	margin-top: 20%;
+	background: white;
+	padding: 1%;
+	margin:1% 0;
+	box-shadow: 1px 4px 4px silver;
+}

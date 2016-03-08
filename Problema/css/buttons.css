@@ -1,0 +1,11 @@
+body {
+	background: #F2F2F2;
+	color: gray;
+}
+
+.showback {
+	background: white;
+	padding: 3%;
+    margin: 5% 0;
+    box-shadow: 1px 4px 4px silver;
+}
